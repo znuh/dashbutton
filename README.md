@@ -1,2 +1,2 @@
 # dashbutton
-dashbutton hwrev 2 analysis &amp; exploit stuff
+dashbutton analysis &amp; exploit stuff
