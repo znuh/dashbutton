@@ -4,6 +4,11 @@
 *.obj
 *.elf
 
+# Binaries
+
+*.bin
+*.raw
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -31,3 +36,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Binary tools
+
+audio_exploit/fsk
